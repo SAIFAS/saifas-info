@@ -1,4 +1,4 @@
-# saifas-info
+# SAIFAS info
 
 ## Description:
 - We are Open source community and love our work
