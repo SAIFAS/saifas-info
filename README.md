@@ -1,14 +1,4 @@
-# SAIFAS info
 
-## Description:
-- We are Open source community and love our work
+- [rus](lang/rus/readme.md)
 
-## Location
-- We are agile, transparent and virtually close people and we are working from office and home
-
-## E-mail:
-- company@saifas.org
-
-## Website:
-- http://saifas.org (comming soon)
-
+- [eng](lang/eng/readme.md)
