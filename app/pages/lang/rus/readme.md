@@ -43,7 +43,6 @@ http://saifas.github.io
 
 |||
 |:-----|:-----|
-|||
 |.|`.`|
 |ИНН|`6154106336`|
 |ОГРН|`1076154000130`|
@@ -69,9 +68,8 @@ http://saifas.github.io
 
 |||
 |:-----|:-----|
-|||
 |.|`.`|
-|Страна| `Россия` | `Российская Федерация`|
+|Страна| `Россия` & `Российская Федерация`|
 |Банк| `ALFA-BANK`|
 |Адрес банка| `107078, город Москва, Каланчевская ул., д.27`|
 |БИК|`046015207`|
@@ -88,9 +86,8 @@ http://saifas.github.io
 
 |||
 |:-----|:-----|
-|||
 |.|`.`|
-|Страна| `Россия` | `Российская Федерация`|
+|Страна| `Россия` & `Российская Федерация`|
 |Банк| `ФИЛИАЛ "РОСТОВСКИЙ" АО "АЛЬФА-БАНК"`|
 |Адрес банка| `107078, город Москва, Каланчевская ул., д.27`|
 |БИК|`046015207`|
@@ -103,4 +100,4 @@ http://saifas.github.io
 |ИНН|`6154106336`|
 |КПП|`615401001`|
 
-![alt text](https://github.com/SAIFAS/saifas-info/blob/master/assets/graphics/images/qr-codes/saifas-banking-alfa-bank-account-rur-40702810426140001494-qr-code.png  "КьюАр код")
+![alt text](https://raw.githubusercontent.com/SAIFAS/saifas-info/master/assets/graphics/images/qr-codes/saifas-banking-alfa-bank-account-rur-40702810426140001494-qr-code.png  "КьюАр код")

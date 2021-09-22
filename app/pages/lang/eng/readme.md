@@ -43,8 +43,7 @@ Address: `347900, Russia, Rostovskaya oblast', Taganrog, Birzhevoy Spusk, 8, E.`
 
 |||
 |:-----|:-----|
-|||
-|.|`.`|`.`|.|-|.|.|-|.|
+|.|`.`|
 |Taxpayer Identification Number (INN)|`6154106336`|
 |OGRN|`1076154000130`|
 |Tax Registration Reason Code (KPP)|`615401001`|
@@ -69,9 +68,8 @@ Address: `347900, Russia, Rostovskaya oblast', Taganrog, Birzhevoy Spusk, 8, E.`
 
 |||
 |:-----|:-----|
-|||
 |.|`.`|
-|Country| `Russia` | `Russian Federation`|
+|Country| `Russia` & `Russian Federation`|
 |Bank| `ALFA-BANK`|
 |Bank address| `27 Kalanchevskaya str., Moscow, 107078`|
 |Russian Central Bank Identification Code (BIC)|`046015207`|
@@ -87,9 +85,8 @@ Address: `347900, Russia, Rostovskaya oblast', Taganrog, Birzhevoy Spusk, 8, E.`
 
 |||
 |:-----|:-----|
-|||
 |.|`.`|
-|Country| `Russia` | `Russian Federation`|
+|Country| `Russia` & `Russian Federation`|
 |Bank| `FILIAL "ROSTOVSKII" AO "ALFA-BANK"`|
 |Bank address| `27 Kalanchevskaya str., Moscow, 107078`|
 |Russian Central Bank Identification Code (BIC)|`046015207`|
@@ -102,4 +99,4 @@ Address: `347900, Russia, Rostovskaya oblast', Taganrog, Birzhevoy Spusk, 8, E.`
 |Taxpayer Identification Number (INN)|`6154106336`|
 |Tax Registration Reason Code (KPP)|`615401001`|
 
-![alt text](https://github.com/SAIFAS/saifas-info/blob/master/assets/graphics/images/qr-codes/saifas-banking-alfa-bank-account-rur-40702810426140001494-qr-code.png  "QR code")
+![alt text](https://raw.githubusercontent.com/SAIFAS/saifas-info/master/assets/graphics/images/qr-codes/saifas-banking-alfa-bank-account-rur-40702810426140001494-qr-code.png  "QR code")
