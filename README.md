@@ -1,4 +1,4 @@
 
-- [rus](lang/rus/readme.md)
+- [rus](app/pages/lang/rus/readme.md)
 
-- [eng](lang/eng/readme.md)
+- [eng](app/pages/lang/eng/readme.md)
