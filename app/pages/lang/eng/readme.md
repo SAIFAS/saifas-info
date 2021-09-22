@@ -70,7 +70,7 @@ Address: `347900, Russia, Rostovskaya oblast', Taganrog, Birzhevoy Spusk, 8, E.`
 |SWIFT| `ALFARUMM`|
 |Currency|`USD`|
 |Account Number|`40702840526140000187`|
-|Beneficiary name| `OOO 'SAIFAS`|
+|Beneficiary name| `OOO 'SAIFAS'`|
 |Beneficiary address| `PER. BIRJEVOI SPUSK, D. 8, C. E, TAGANROG, RUSSIA`|
 
 
