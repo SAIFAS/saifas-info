@@ -17,9 +17,13 @@ We are agile, transparent and virtually close people and we are working from off
 http://saifas.github.io
 
 
-#### SAIFAS - Commercial details
+---
 
-##### Registration data of the organization in Russia:
+### SAIFAS - Commercial details
+
+
+
+#### Registration data of the organization in Russia:
 
 Legal entity
 
@@ -32,6 +36,8 @@ Limited liability company 'SAIFAS'
 CEO (Chief Executive Officer) `Sergey Victorovich Zagorodnikh`
 
 Address: `347900, Russia, Rostovskaya oblast', Taganrog, Birzhevoy Spusk, 8, E.`
+
+
 
 ##### Tax attributes:
 
@@ -55,7 +61,9 @@ Address: `347900, Russia, Rostovskaya oblast', Taganrog, Birzhevoy Spusk, 8, E.`
 |Main OKVED|` 62.01`|
 
 
+
 ##### Banking account details:
+
 
 - For income payments from abroad: [Download](/assets/binaries/banking-accounting-cards/saifas-bank-alfa-bank-account-card-for-income-payments-from-abroad-40702840526140000187.pdf)
 
@@ -73,6 +81,7 @@ Address: `347900, Russia, Rostovskaya oblast', Taganrog, Birzhevoy Spusk, 8, E.`
 |Beneficiary name| `OOO 'SAIFAS'`|
 |Beneficiary address| `PER. BIRJEVOI SPUSK, D. 8, C. E, TAGANROG, RUSSIA`|
 
+---
 
 - For local payments: [Download](/assets/binaries/banking-accounting-cards/saifas-bank-alfa-bank-account-card-for-local-payments-40702810426140001494.pdf)
 
@@ -92,3 +101,5 @@ Address: `347900, Russia, Rostovskaya oblast', Taganrog, Birzhevoy Spusk, 8, E.`
 |Beneficiary address| `PEREULOK BIRZHEVOI SPUSK, D. 8, KORP./ST. E, ROSTOVSKAIA OBLAST, G. TAGANROG`|
 |Taxpayer Identification Number (INN)|`6154106336`|
 |Tax Registration Reason Code (KPP)|`615401001`|
+
+![alt text](https://github.com/SAIFAS/saifas-info/blob/master/assets/graphics/images/qr-codes/saifas-banking-alfa-bank-account-rur-40702810426140001494-qr-code.png  "QR code")

@@ -16,12 +16,16 @@
 
 http://saifas.github.io
 
+---
 
-#### САЙФАС - Коммерческие реквизиты
+### САЙФАС - Коммерческие реквизиты
 
-##### Регистрационные данные организации в России:
 
-###### Юр. Лицо
+#### Регистрационные данные организации в России:
+
+
+
+##### Юр. Лицо
 
 ```
 САЙФАС, ООО | ООО "САЙФАС"
@@ -33,7 +37,9 @@ http://saifas.github.io
 
 Адрес регистрации: `347900, Россия, Ростовская область, Таганрог, Биржевой спуск, 8, литер Е.`
 
-###### Налоговые атрибуты:
+
+
+##### Налоговые атрибуты:
 
 |||
 |:-----|:-----|
@@ -55,7 +61,9 @@ http://saifas.github.io
 |Основной ОКВЭД|` 62.01`|
 
 
-###### Банковские реквизиты:
+
+##### Банковские реквизиты:
+
 
 - Для входящих платежей из-за рубежа: [Скачать](/assets/binaries/banking-accounting-cards/saifas-bank-alfa-bank-account-card-for-income-payments-from-abroad-40702840526140000187.pdf)
 
@@ -73,6 +81,8 @@ http://saifas.github.io
 |Наименование| `OOO 'SAIFAS'`|
 |Адрес| `PER. BIRJEVOI SPUSK, D. 8, C. E, TAGANROG, RUSSIA`|
 
+
+---
 
 - Для местных платежей внутри страны: [Скачать](/assets/binaries/banking-accounting-cards/saifas-bank-alfa-bank-account-card-for-local-payments-40702810426140001494.pdf)
 
@@ -92,3 +102,5 @@ http://saifas.github.io
 |Адрес| `ПЕРЕУЛОК БИРЖЕВОЙ СПУСК, Д. 8, КОРП./СТ. Е, РОСТОВСКАЯ ОБЛАСТЬ, Г. ТАГАНРОГ`|
 |ИНН|`6154106336`|
 |КПП|`615401001`|
+
+![alt text](https://github.com/SAIFAS/saifas-info/blob/master/assets/graphics/images/qr-codes/saifas-banking-alfa-bank-account-rur-40702810426140001494-qr-code.png  "КьюАр код")
