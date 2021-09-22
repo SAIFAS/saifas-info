@@ -65,7 +65,7 @@ http://saifas.github.io
 ##### Банковские реквизиты:
 
 
-- Для входящих платежей из-за рубежа: [Скачать](/assets/binaries/banking-accounting-cards/saifas-bank-alfa-bank-account-card-for-income-payments-from-abroad-40702840526140000187.pdf)
+- Для входящих платежей из-за рубежа: [Скачать](https://raw.githubusercontent.com/SAIFAS/saifas-info/master/assets/binaries/banking-accounting-cards/saifas-bank-alfa-bank-account-card-for-income-payments-from-abroad-40702840526140000187.pdf)
 
 |||
 |:-----|:-----|
@@ -84,7 +84,7 @@ http://saifas.github.io
 
 ---
 
-- Для местных платежей внутри страны: [Скачать](/assets/binaries/banking-accounting-cards/saifas-bank-alfa-bank-account-card-for-local-payments-40702810426140001494.pdf)
+- Для местных платежей внутри страны: [Скачать](https://raw.githubusercontent.com/SAIFAS/saifas-info/master/assets/binaries/banking-accounting-cards/saifas-bank-alfa-bank-account-card-for-local-payments-40702810426140001494.pdf)
 
 |||
 |:-----|:-----|
