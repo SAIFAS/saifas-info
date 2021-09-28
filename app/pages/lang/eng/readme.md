@@ -21,6 +21,9 @@ http://saifas.github.io
 
 ### SAIFAS - Commercial details
 
+Industry: Services
+
+Sub-industry: Software development
 
 
 #### Registration data of the organization in Russia:
