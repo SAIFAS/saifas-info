@@ -68,6 +68,8 @@ http://saifas.github.io
 
 ##### Банковские реквизиты:
 
+https://www.veem.com/pay/saifas
+
 
 - Для входящих платежей из-за рубежа: [Скачать](https://raw.githubusercontent.com/SAIFAS/saifas-info/master/assets/binaries/banking-accounting-cards/saifas-bank-alfa-bank-account-card-for-income-payments-from-abroad-40702840526140000187.pdf)
 
