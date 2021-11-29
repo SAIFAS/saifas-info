@@ -10,6 +10,8 @@ We are agile, transparent and virtually close people and we are working from off
 
 - E-mail:
 
+[contact@saifas.info](mailto:contact@saifas.info)
+
 [direct@saifas.info](mailto:direct@saifas.info?subject=Direct%20message%20through%20GitHub)
 
 - Website:
