@@ -10,6 +10,8 @@
 
 - Электронная почта:
 
+[contact@saifas.info](mailto:contact@saifas.info)
+
 [direct@saifas.info](mailto:direct@saifas.info?subject=Прямое%20сообщение%20из%20GitHub)
 
 - Вебсайт:
